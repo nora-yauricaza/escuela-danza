@@ -1,0 +1,68 @@
+/* Inserta tu codigo aqui */
+*{
+	font-family: Montserrat;
+}
+.escuela{
+	text-align: center;
+	color:#434F70;
+	font-size: 30px
+}
+ nav a{
+	padding: 10px 50px;
+	color:gray;	
+	text-decoration: none;
+}
+.menu{
+	text-align: center;
+}
+		
+li{
+	list-style: none;
+	display: inline;
+}
+footer{
+	background:#434F70;
+	color: #FFFFFF;
+	font-size: 15px;
+	height: 50px;
+}
+.fondo{
+	background-image: url("../img/dance_1.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 390px;
+	position: relative;	
+}
+.studio{
+	width: 15%;
+    height: 100px;
+    color: #FFFFFF;
+    position: relative;
+    top: -300px;
+    left: 95px;
+}
+.studio p.pri{
+	font-size: 50px;
+}
+.studio p.seg{
+	font-size: 10px;
+}
+.linea{
+	background-color: #192951;
+	height: 10px;
+}
+.imagen1{
+	background-image: url("../img/instructor_4.jpg");
+	background-size: cover;
+	background-size: 100%;	
+	height: 400px;
+	}
+.imagen2{
+	background-image: url("../img/profesor_9.jpg");
+	background-size: cover;
+	background-size: 100%;
+	height: 400px;	
+}
+.texto{
+	text-align: center;
+}
